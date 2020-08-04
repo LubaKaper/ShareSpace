@@ -46,9 +46,7 @@ Calendar Kit:
 
 ![Design](ShareSpace/Assets/ShareSpace-designExtwension.png)
 
-## Gif
 
-![gif](ShareSpace/Assets/reserveGig.gif)
 
 
   
