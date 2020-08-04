@@ -38,5 +38,8 @@ Calendar Kit:
      * Restriction dates before the current date
 
 
+## Screenshot of the Calendar
+
+![Calendar](ShareSpace/Assets/ShareSpace-Calendar.png)
 
   
