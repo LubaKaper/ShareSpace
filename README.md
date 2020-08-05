@@ -40,7 +40,7 @@ Calendar Kit:
 
 ## Screenshot of the Calendar
 
-![Calendar](ShareSpace/Assets/ShareSpace-Calendar.png)
+![Calendar](ShareSpace/Assets/ShareSpace_Calendar.png)
 
 ## Screenshot of the Listing Detail Page
 
