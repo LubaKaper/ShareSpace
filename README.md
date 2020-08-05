@@ -44,7 +44,7 @@ Calendar Kit:
 
 ## Screenshot of the Listing Detail Page
 
-![Design](ShareSpace/Assets/ShareSpace-designExtwension.png)
+![Design](ShareSpace/Assets/Assets/ShareSpace_designExtension.png.png)
 
 ## Gif
 
