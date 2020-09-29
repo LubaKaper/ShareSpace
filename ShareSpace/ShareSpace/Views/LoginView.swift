@@ -31,6 +31,7 @@ class LoginView: UIView {
         textfield.textContentType = .emailAddress
         textfield.textAlignment = .center
         textfield.backgroundColor = .systemBackground
+        textfield.autocapitalizationType = .none
         return textfield
     }()
     
